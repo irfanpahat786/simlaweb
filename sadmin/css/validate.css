@@ -1,0 +1,6 @@
+.errormsg{border:2px #f46964 solid;  margin:20px 0px; font-size:15px; padding:10px; border-radius:2px; color:#f00;} 
+
+.successmsg{background-color:#9ef366; border:2px #50a915 solid; color:#275e03; margin:20px 0px; font-size:15px; padding:10px; border-radius:2px;} 
+
+.erorfldcls{color:#FF0000; font-size:12px; margin-bottom:5px; display:none;}
+.redtext{color:#f36966;}
